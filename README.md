@@ -72,11 +72,7 @@ password_strength_checker/
 - Open the application in a web browser.
 - Enter a password in the input field.
 - Click the "Check Strength" button.
-- View the password strength and feedback provided below the input field.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to update the README file if necessary.
+- View the password strength and feedback provided below the input field
 
 
 ## Contact
