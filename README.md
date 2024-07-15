@@ -23,7 +23,7 @@ A simple web application to assess the strength of a password based on its lengt
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/black-mamba008/password-strength-checker.git
 cd password-strength-checker
 ```
 
